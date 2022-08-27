@@ -1,2 +1,5 @@
-# SDU-COURSE-TEMPLATE
-Course Repository template for courses I attend at the University of Southern Denmark
+# SE{semester no.}: {subject name}
+
+Course ID: {course id}
+Odin-listing: {link to Odin-listing}
+Term: {term}
